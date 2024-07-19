@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
 export class SkillsetComponent {
 title="Master";
 title1="Master";
+title2="Master";
+
 
 }
