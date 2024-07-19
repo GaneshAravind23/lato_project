@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./skillset.component.css']
 })
 export class SkillsetComponent {
-
+title="Master";
 }
